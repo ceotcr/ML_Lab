@@ -1,1 +1,3 @@
-print("hello world")
+from SampleFunctions import helloWorld
+
+helloWorld("print")
